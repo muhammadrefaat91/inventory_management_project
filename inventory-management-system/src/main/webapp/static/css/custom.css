@@ -1,0 +1,51 @@
+.form-container {
+	position: fiexd;
+	width: 50%;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	background-color: #E8E1E1;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+
+.submit-button-customer {
+	float: right;
+	margin-right: 222;
+	margin-top: 10px;
+	width: 129px;
+	height: 43px;
+}
+
+.first_row {
+	padding-bottom: 132px;
+}
+
+.floatRight {
+	float: right;
+	margin-right: 18px;
+}
+.second_row{
+    margin-right: 155px;	
+}
+
+.has-error {
+	color: red;
+}
+
+.success {
+	        width: 50%;
+    /* margin-left: 23px; */
+    padding: 20px;
+    color: #5cb85c;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    /* margin-top: -83px; */
+    padding-left: 33px;
+}
+
+
+.dataTables_info{
+	    margin-right: -150px;
+}
