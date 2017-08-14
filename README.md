@@ -1,3 +1,11 @@
 # inventory_management_project
 
-This is inventory managment web application using technology spring bootstarp data table jquery querydsl jmapper
+Inventory managment system web application based, consistise of two modules first module managing cutomers and admin they interact with inventory project and second module to manage products.
+
+using technologies 
+spring mvc
+spring data
+bootstarp
+data table jquery
+querydsl
+jmapper
